@@ -1,5 +1,0 @@
-WBZ_Supplier 105 5
-WBZ_Supplier 103 0
-WBZ_Supplier 102 50
-WBZ_Supplier 103 40
-WBZ_Supplier 104 40
