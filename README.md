@@ -11,6 +11,7 @@ list of parts from their warehouse. The above-mentioned information is summarize
 1 as follows:
 Table 1: Sample Model Divisions and Warehouse
 ![image](https://user-images.githubusercontent.com/124484779/216805835-ac6d864f-0e1a-4d51-963e-4438a97ea0ad.png)
+
 The automobile manufacturing plant has decided to use an Automobile Parts Inventory 
 Management System for all the warehouses in its assembly divisions. The inventory system has 
 to be programmed in C and you had been recruited for the same. You are required to write a C
