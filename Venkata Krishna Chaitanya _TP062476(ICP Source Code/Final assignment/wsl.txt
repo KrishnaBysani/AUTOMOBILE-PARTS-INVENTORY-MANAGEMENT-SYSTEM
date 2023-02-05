@@ -1,0 +1,5 @@
+WaterPump 106 50
+OilFilter 107 50
+Door 108 50
+Hood 109 50
+Compressor 110 50
