@@ -21,7 +21,9 @@ program with following features to manage automobile parts in all the warehouses
 
 All parts and its details need to be recorded in parts inventory text files – one file for each 
 warehouse.
+
 Important Note: 
+
 i. When testing the program, you should simulate at least three warehouses and record 
 at least 5 parts under each of them. 
 
@@ -32,22 +34,36 @@ iii. Initial quantity of each part need to be recorded in parts inventory text f
 iv. You may choose to exclude supplier details in parts inventory text files.
 
 2. Parts Inventory Update
+
 The program should have a feature for the warehouse to update the quantity of parts after 
 receiving from suppliers (increase quantity) or providing to the assembly sections (decrease 
 quantity). 
+
 Important Note: 
+
 i. Each part can be supplied by exactly one supplier only. However, one supplier can 
 supply more than one part.
+
 ii. Details of suppliers should be stored in supplier.txt text file. The parts id of parts 
 they supplied need to be stored as well.
+
 iii. The system should check for available quantity in warehouse before grating the 
 request from assembly sections.
+
 3. Parts Inventory Tracking
+
 The program should have options to print:
+
 i. Total available quantity of all parts sorted in ascending order by parts id.
+
 ii. Records of all parts that has stock quantity less than 10 units in each warehouse.
+
 Note: The program should prompt for user to select warehouse to print
+
 4. Searching Functionalities
+
 The program should have options to search:
+
 i. Part’s record when searched by part’s id.
+
 ii. The supplier details for a particular part
