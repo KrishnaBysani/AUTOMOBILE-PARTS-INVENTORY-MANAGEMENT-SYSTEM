@@ -16,15 +16,21 @@ The automobile manufacturing plant has decided to use an Automobile Parts Invent
 Management System for all the warehouses in its assembly divisions. The inventory system has 
 to be programmed in C and you had been recruited for the same. You are required to write a C
 program with following features to manage automobile parts in all the warehouses:
+
 1. Parts Inventory Creation in Warehouses
+
 All parts and its details need to be recorded in parts inventory text files – one file for each 
 warehouse.
 Important Note: 
 i. When testing the program, you should simulate at least three warehouses and record 
 at least 5 parts under each of them. 
+
 ii. All parts need to be given a unique part id.
+
 iii. Initial quantity of each part need to be recorded in parts inventory text files.
+
 iv. You may choose to exclude supplier details in parts inventory text files.
+
 2. Parts Inventory Update
 The program should have a feature for the warehouse to update the quantity of parts after 
 receiving from suppliers (increase quantity) or providing to the assembly sections (decrease 
