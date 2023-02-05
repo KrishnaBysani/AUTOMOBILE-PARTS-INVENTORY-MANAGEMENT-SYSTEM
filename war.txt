@@ -1,0 +1,5 @@
+SteeringWheel 111 50
+Tire 112 50
+Brake 113 50
+BrakePad 114 50
+BrakeDisc 115 50
