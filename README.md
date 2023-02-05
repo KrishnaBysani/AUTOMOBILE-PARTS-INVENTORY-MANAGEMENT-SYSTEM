@@ -1,4 +1,6 @@
 # AUTOMOBILE-PARTS-INVENTORY-MANAGEMENT-SYSTEM
+Develop an System using C program
+
 An automobile manufacturing plant in Sungai Tunas has been assembling different models of passenger cars. The plant has a number of car assembly divisions and each division assembles a different model. Each assembly division has its own warehouse storing and managing the automobile parts for a particular model. The assembly sections in each division obtain their parts from the warehouse in their respective assembly division.
 
 The warehouse in each division will receive parts from suppliers and provide them to the assembly sections. As different sections assemble different parts of a car, they require different list of parts from their warehouse. The above-mentioned information is summarized in Table 1 as follows:
