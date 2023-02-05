@@ -1,5 +1,0 @@
-EngineBlock 101 50
-ExhaustValve 102 50
-RoofPanel 103 5
-Bumper 104 90
-ACCondenser 105 50
